@@ -1,0 +1,1 @@
+Repositorio feito para a atividade de git/github da Struct por Athos e Rogério.
